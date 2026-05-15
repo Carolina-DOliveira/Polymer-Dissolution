@@ -1,0 +1,245 @@
+Polymer;Solvent;Sample type
+ABS;1,3-Dioxolane;waste
+ABS;1-Bromonaphthalene;waste
+ABS;1-Butanol;pellet
+ABS;1-Butanol;waste
+ABS;1-Chlorobutane;waste
+ABS;1-Methoxy-2-propanol;waste
+ABS;1-Propanol;waste
+ABS;1-Propanol;pellet
+ABS;2-Butanone;pellet
+ABS;2-Methylpyridine;waste
+ABS;2-Propanol;pellet
+ABS;2-Propanol;waste
+ABS;Acetic acid;waste
+ABS;Acetone;waste
+ABS;Acetone;pellet
+ABS;Acetonitrile;pellet
+ABS;Acetonitrile;waste
+ABS;Acetophenone;waste
+ABS;Anisole;waste
+ABS;Butyl Benzoate;waste
+ABS;Cyclohexane;pellet
+ABS;Cyclohexanone;waste
+ABS;Diacetone Alcohol;waste
+ABS;Dichloromethane;waste
+ABS;Dichloromethane;pellet
+ABS;Diethyl Carbonate;waste
+ABS;Diethyl adipate;waste
+ABS;Diethyl ether;pellet
+ABS;Diethyl ether;waste
+ABS;Dimethyl Sulfoxide;waste
+ABS;Dodecane;pellet
+ABS;Ethanol;pellet
+ABS;Ethyl acetate;pellet
+ABS;Ethyl acetate;waste
+ABS;Ethylene glycol;waste
+ABS;Formic acid;waste
+ABS;Heptane;pellet
+ABS;Hexane;pellet
+ABS;Hexane;waste
+ABS;Methanol;pellet
+ABS;Methanol;waste
+ABS;Methyl acetate;pellet
+ABS;N,N-Dimethylformamide;pellet
+ABS;N,N-Dimethylformamide;waste
+ABS;N-methyl-2-pyrrolidone;pellet
+ABS;Sulfolane;waste
+ABS;Tetrahydrofuran;pellet
+ABS;Tetrahydrofuran;waste
+ABS;Toluene;pellet
+ABS;Toluene;waste
+ABS;Water;pellet
+HDPE;Cyclohexane;film
+HDPE;Limonene;film
+HDPE;Squalane;film
+HDPE;Toluene;film
+HDPE;alpha-Pinene;film
+HDPE;m-Xylene;pellet
+HDPE;o-Xylene;film
+HDPE;p-Cymene;film
+LDPE;2-Methyl tetrahydrofuran;film
+LDPE;Acetone;film
+LDPE;Cyclohexane;film
+LDPE;Cyclopentyl methyl ether;film
+LDPE;Dimethyl carbonate;film
+LDPE;Dodecane;film
+LDPE;Dodecane;pellet
+LDPE;Ethanol;film
+LDPE;Ethyl acetate;pellet
+LDPE;Ethyl lactate;film
+LDPE;Ethylene glycol;film
+LDPE;Formic acid;film
+LDPE;Limonene;pellet
+LDPE;Toluene;pellet
+LDPE;alpha-Pinene;pellet
+LDPE;gamma-Valerolactone;film
+LDPE;m-Xylene;pellet
+LDPE;o-Xylene;film
+LDPE;p-Cymene;film
+PA6;Acetone;film
+PA6;Dimethyl Sulfoxide;film
+PA6;Ethylene glycol;film
+PA6;N,N-Dimethylformamide;fiber
+PA66;1,4-Butanediol;fiber
+PA66;Acetic acid;film
+PA66;Acetone;film
+PA66;N,N-Dimethylformamide;fiber
+PC;1,3-Dioxolane;waste
+PC;1,3-Dioxolane;film
+PC;1,4-Dioxane;waste
+PC;1,4-Dioxane;film
+PC;2-Butanol;waste
+PC;2-Butanol;film
+PC;2-Methylpyridine;waste
+PC;2-Methylpyridine;film
+PC;Acetone;waste
+PC;Acetone;film
+PC;Acetone;pellet
+PC;Acetonitrile;pellet
+PC;Anisole;waste
+PC;Anisole;film
+PC;Butyl Benzoate;waste
+PC;Butyl Benzoate;film
+PC;Chloroform;waste
+PC;Cyclohexanone;waste
+PC;Cyclohexanone;film
+PC;Cyrene;waste
+PC;Cyrene;film
+PC;Diacetone Alcohol;waste
+PC;Diacetone Alcohol;film
+PC;Dichloromethane;waste
+PC;Dichloromethane;film
+PC;Ethyl acetate;waste
+PC;Ethyl acetate;film
+PC;Ethylene glycol;waste
+PC;Ethylene glycol;film
+PC;Glycerol;waste
+PC;Glycerol;film
+PC;Hexane;waste
+PC;Hexane;film
+PC;Isophorone;waste
+PC;Isophorone;film
+PC;Isosorbide dimethyl ether;waste
+PC;Isosorbide dimethyl ether;film
+PC;N,N-Dimethylacetamide;waste
+PC;N,N-Dimethylacetamide;film
+PC;N-methyl-2-pyrrolidone;waste
+PC;N-methyl-2-pyrrolidone;film
+PC;Pentyl Acetate;waste
+PC;Pentyl Acetate;film
+PC;Sulfolane;waste
+PC;Sulfolane;film
+PC;Tetrahydrofuran;waste
+PC;Tetrahydrofuran;film
+PC;Toluene;waste
+PC;Toluene;film
+PP;2,2,5,5-Tetramethyltetrahydrofuran;film
+PP;Acetic acid;film
+PP;Acetone;film
+PP;Cyclohexane;film
+PP;Dibutoxymethane;pellet
+PP;Dichloromethane;film
+PP;Formic acid;film
+PP;Hexanoic acid;film
+PP;Limonene;film
+PP;Limonene;pellet
+PP;Tetrahydrofuran;film
+PP;Tetrahydropyran;pellet
+PP;Toluene;pellet
+PP;Toluene;film
+PP;alpha-Pinene;pellet
+PP;alpha-Pinene;film
+PP;beta-Pinene;film
+PP;m-Xylene;pellet
+PP;o-Xylene;film
+PP;p-Cymene;pellet
+PS;1,8-Cineole;film
+PS;2-Propanol;film
+PS;Acetone;pellet
+PS;Acetonitrile;pellet
+PS;Bornylacetate;film
+PS;Cyclohexane;film
+PS;Dichloromethane;waste
+PS;Dichloromethane;film
+PS;Dodecane;powder
+PS;Ethyl acetate;film
+PS;Ethyl acetate;powder
+PS;Limonene;film
+PS;Terpinen-4-ol;film
+PS;Terpinolene;film
+PS;Terpinylacetate;film
+PS;Tetrahydrofuran;powder
+PS;Tetrahydrofuran;film
+PS;Toluene;waste
+PS;Toluene;film
+PS;Toluene;powder
+PS;alpha-Phellandrene;film
+PS;alpha-Pinene;film
+PS;alpha-Terpinene;film
+PS;beta-Pinene;film
+PS;gamma‑Terpinene;film
+PS;o-Xylene;film
+PU;Acetic acid;film
+PU;Cyrene;fiber
+PU;Dimethyl Sulfoxide;fiber
+PU;Formic acid;film
+PU;Hexanoic acid;film
+PU;N,N-Dimethylacetamide;fiber
+PU;N,N-Dimethylformamide;fiber
+PU;Tetrahydrofuran;fiber
+PU;gamma-Valerolactone;fiber
+PVC;1-Butanol;fiber
+PVC;1-Pentanol;fiber
+PVC;1-Propanol;fiber
+PVC;2-Butanone;fiber
+PVC;Benzene;fiber
+PVC;Cyclohexane;fiber
+PVC;Cyclohexanol;fiber
+PVC;Cyclohexanone;fiber
+PVC;Cyclopentanone;fiber
+PVC;Dichloromethane;film
+PVC;Diethyl ether;fiber
+PVC;Ethanol;fiber
+PVC;Ethylene glycol;film
+PVC;Hexane;fiber
+PVC;Methanol;fiber
+PVC;N,N-Dimethylacetamide;fiber
+PVC;N,N-Dimethylformamide;fiber
+PVC;Tetrahydrofuran;fiber
+PVC;Tetrahydrofuran;powder
+PVC;Tetrahydropyran;powder
+PVC;Toluene;film
+PVC;Toluene;fiber
+PVC;Water;fiber
+PVDF;Cyrene;film
+PVDF;Isosorbide dimethyl ether;film
+PET;2-Butanone;fiber
+PET;Acetic acid;film
+PET;Acetone;film
+PET;Benzylalcohol;film
+PET;Carvacrol;film
+PET;Cyclohexanone;fiber
+PET;Cyclopentanone;fiber
+PET;Cyrene;fiber
+PET;Dimethyl Sulfoxide;fiber
+PET;Dimethyl Sulfoxide;film
+PET;Dimethyl Sulfoxide;pellet
+PET;Dodecane;film
+PET;Ethyl benzoate;pellet
+PET;Formic acid;film
+PET;Hexanoic acid;film
+PET;N,N-Dimethylacetamide;fiber
+PET;N,N-Dimethylformamide;fiber
+PET;N,N-Dimethylformamide;pellet
+PET;N-methyl-2-pyrrolidone;pellet
+PET;N-methyl-2-pyrrolidone;film
+PET;Tetrahydrofuran;fiber
+PET;Tetrahydrofuran;pellet
+PET;Tetrahydropyran;pellet
+PET;Thymol;film
+PET;alpha-Pinene;film
+PET;gamma-Valerolactone;fiber
+PET;gamma-Valerolactone;pellet
+PET;gamma-Valerolactone;film
+PET;p-Cymene;film
