@@ -1,0 +1,3 @@
+Polymer;Solvent;Sample type
+LDPE;3-methylnonane;film
+PET;3-methylnonane;film
